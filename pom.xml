@@ -64,7 +64,7 @@
 						<id>default-clean</id>
 						<phase>clean</phase>
 						<goals>
-							<goal>clean</goal> hgjgj
+							<goal>clean</goal>
 						</goals>
 					</execution>
 				</executions>
